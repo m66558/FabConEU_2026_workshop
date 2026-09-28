@@ -1,0 +1,1 @@
+test note for git merge conflict demo
